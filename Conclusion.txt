@@ -1,0 +1,24 @@
+Introduction
+Ce projet consistait à implémenter des Easter eggs, des fonctionnalités cachées ou des surprises, au sein d'une page web en utilisant HTML, CSS et JavaScript. Les Easter eggs sont généralement des éléments ludiques et inattendus qui améliorent l'expérience utilisateur.
+
+Détails de l'implémentation
+1. Easter Egg du Code Konami
+JavaScript (app.js)
+Le Easter egg du code Konami a été implémenté en utilisant JavaScript. Le code écoute une séquence spécifique de pressions de touches (haut, haut, bas, bas, gauche, droite, gauche, droite), inspirée du célèbre code Konami. Lorsque la séquence correcte est entrée, une alerte est déclenchée, indiquant le déblocage réussi de l'Easter egg.
+
+CSS (style.css)
+Bien que le code Konami implique principalement JavaScript, le CSS a été utilisé pour fournir une rétroaction visuelle lorsque l'Easter egg est déclenché. La couleur de fond du corps change et une animation de rebond est appliquée à un élément avec la classe "easter-egg-element".
+
+2. Easter Egg du lien Contact
+JavaScript (app.js)
+Un autre Easter egg a été implémenté où survoler le lien "Contact" sous la section "À propos de nous" déclenche un changement dans le texte du bouton "BUY NOW!" en "Nice Shopping." Le code JavaScript écoute l'événement de survol de la souris sur le lien "Contact" et met à jour dynamiquement le texte du bouton.
+
+CSS (style.css)
+Le CSS a été ajouté pour améliorer visuellement l'Easter egg. Lorsque le texte "Nice Shopping" est affiché, la couleur de fond du bouton change, créant une expérience visuelle plus engageante.
+
+Conclusion
+L'implémentation des Easter eggs ajoute un élément de surprise et d'interactivité à la page web. L'Easter egg du code Konami rend hommage à une tradition de jeu classique, tandis que l'Easter egg du lien "Contact" offre une interaction ludique aux utilisateurs.
+
+Ces Easter eggs démontrent l'intégration de JavaScript pour la logique et l'interactivité, du CSS pour le style et les effets visuels, et de HTML pour la structuration du contenu. La combinaison de ces technologies améliore l'expérience utilisateur, rendant le site web plus engageant et mémorable.
+
+N'hésitez pas à explorer et à modifier le code selon vos préférences ou à ajouter des Easter eggs supplémentaires pour créer une expérience utilisateur unique et agréable. Amusez-vous à implémenter et à découvrir des surprises cachées !
